@@ -32,4 +32,11 @@ airflow.db
 .DS_Store
 include/data/
 include/train/
-data/
+data/package.json
+package-lock.json
+packages.txt
+tsconfig.json
+astro.config.mjs
+public/
+src/
+.vscode/
