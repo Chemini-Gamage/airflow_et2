@@ -30,3 +30,6 @@ __pycache__/
 logs/
 airflow.db
 .DS_Store
+include/data/
+include/train/
+data/
